@@ -95,7 +95,6 @@ Clone o repositório:
 
 ```bash
 git clone https://github.com/eber-pacanhela/rede-booleana-levedura-fissao.git
-cd rede-booleana-levedura-fissao
 ```
 
 Abra o arquivo `codigo.r` no RStudio e execute-o integralmente.
